@@ -2,7 +2,7 @@
 
 ### Data Analysis & Engineering | IT Infrastructure & Networking | Machine Learning (In View)
 
-I am a Computer Science graduate focused on bridging the gap between system operations and data-driven decision making. My expertise spans across maintaining reliable network environments, automating routine IT tasks, and designing pipelines to extract actionable business insights. Currently, I am expanding my foundational knowledge into Data Engineering and Machine Learning frameworks.
+Computer Science graduate with a focus on bridging the gap between system operations and data-driven decision making. My expertise spans across maintaining reliable network environments, automating routine IT tasks, and designing pipelines to extract actionable business insights. Currently, I am expanding my foundational knowledge into Data Engineering and Machine Learning frameworks.
 
 ### Technical Stack
 * Data & Analytics: Python (Pandas, NumPy, Matplotlib), SQL, Power BI, Tableau, Advanced Excel
