@@ -8,7 +8,7 @@ Computer Science graduate with a focus on bridging the gap between system operat
 * Data & Analytics: Python (Pandas, NumPy, Matplotlib), SQL, Power BI, Tableau, Advanced Excel
 * Data Engineering: ETL/ELT Pipeline Design, Data Warehousing Concepts, Data Modeling
 * IT Operations & Networking: Network Configuration, Hardware Troubleshooting, Technical Documentation
-* Tools & Automation: Git/GitHub, Jupyter Notebooks, Linux/Bash Scripting
+* Tools & Automation: Git/GitHub, Jupyter Notebooks, Docker, Airflow, Linux/Bash Scripting
 
 
 ### Connect with Me
